@@ -1,2 +1,2 @@
-# licenta
+# Licenta
 Computer Vision App
